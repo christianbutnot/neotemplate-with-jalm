@@ -1,2 +1,4 @@
-# neotemplate-with-jalm
-Neoforge Example Mod using JustAnotherLibraryMod dependency https://github.com/christianbutnot/justanotherlibrarymod/wiki
+THIS IS ONLY FOR MODS USING JUSTANOTHERLIBRARYMOD AS A DEPENDENCY! FOR VARIOUS USES AND INFORMATION IN USING THIS DEPENDENCY, VISIT THE WIKI PAGE BELOW
+
+https://github.com/christianbutnot/justanotherlibrarymod/wiki
+
