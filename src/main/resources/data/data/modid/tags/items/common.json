@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "progressionutils:shattered_glass",
+    "progressionutils:broken_helmet",
+    "progressionutils:broken_chestplate",
+    "progressionutils:broken_leggings",
+    "progressionutils:broken_boots",
+    "progressionutils:broken_bow",
+    "progressionutils:broken_shears",
+    "progressionutils:torn_leather_breastplate",
+    "progressionutils:old_fishing_rod",
+    "progressionutils:broken_bottle",
+    "progressionutils:pickaxe_head",
+    "progressionutils:sword_piece",
+    "progressionutils:blank_music_disc",
+    "progressionutils:dead_root",
+    "progressionutils:salt"
+  ]
+}

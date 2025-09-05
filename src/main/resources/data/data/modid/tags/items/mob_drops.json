@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "progressionutils:spider_skin",
+    "progressionutils:broken_bone",
+    "progressionutils:piglin_ear",
+    "progressionutils:creeper_heart",
+    "progressionutils:zombie_eye",
+    "progressionutils:guardian_tongue",
+    "progressionutils:elder_guardian_shard",
+    "progressionutils:elder_guardian_spike",
+    "progressionutils:frog_leg",
+    "progressionutils:withered_bone",
+    "progressionutils:dragon_wing",
+    "progressionutils:withered_soul"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "progressionutils:maralite_gem",
+    "progressionutils:argoliem_gem",
+    "progressionutils:betium_crystal",
+    "progressionutils:rubium_crystal",
+    "progressionutils:sampsonite_crystal",
+    "progressionutils:taninite_gem",
+    "progressionutils:strossnium_gem",
+    "progressionutils:brokonium",
+    "progressionutils:brokonium_dust"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "progressionutils:add_mob_item",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:entities/zombie_villager"
+    }
+  ],
+  "item": "progressionutils:zombie_eye"
+}

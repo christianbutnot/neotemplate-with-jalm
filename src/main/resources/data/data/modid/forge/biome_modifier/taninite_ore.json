@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": "progressionutils:taninite_ore",
+  "step": "underground_ores"
+}

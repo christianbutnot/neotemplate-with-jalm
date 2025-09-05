@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "progressionutils:jar",
+    "progressionutils:jar_of_sand",
+    "progressionutils:jar_of_red_sand",
+    "progressionutils:jar_of_dirt",
+    "progressionutils:jar_of_gravel",
+    "progressionutils:jar_of_clay",
+    "progressionutils:obsidian_fragment",
+    "progressionutils:scrap_metal",
+    "progressionutils:scrap_golden",
+    "progressionutils:scrap_copper",
+    "progressionutils:shoestring",
+    "progressionutils:tattered_cloth",
+    "progressionutils:plate",
+    "progressionutils:template_base",
+    "progressionutils:template_aquatic",
+    "progressionutils:template_withered",
+    "progressionutils:template_dragonborn",
+    "progressionutils:template_brokonium"
+  ]
+}

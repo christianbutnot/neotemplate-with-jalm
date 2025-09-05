@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+  "progressionutils:core_aquatic",
+  "progressionutils:core_withered",
+  "progressionutils:core_draconic",
+  "progressionutils:core_brokonium"
+  ]
+}

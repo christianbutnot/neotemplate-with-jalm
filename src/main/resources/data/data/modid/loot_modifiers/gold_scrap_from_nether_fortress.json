@@ -1,0 +1,10 @@
+{
+  "type": "progressionutils:add_utility_item",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:chests/nether_bridge"
+    }
+  ],
+  "item": "progressionutils:scrap_golden"
+}

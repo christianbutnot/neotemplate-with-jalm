@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+  "progressionutils:core_argoliem",
+  "progressionutils:core_maralite",
+  "progressionutils:core_strossnium",
+  "progressionutils:core_taninite",
+  "progressionutils:core_betium",
+  "progressionutils:core_rubium"
+  ]
+}

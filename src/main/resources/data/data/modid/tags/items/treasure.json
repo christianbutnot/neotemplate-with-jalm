@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "progressionutils:bag_of_gold",
+    "progressionutils:diamond_nugget",
+    "progressionutils:emerald_nugget",
+    "progressionutils:netherite_nugget"
+  ]
+}
