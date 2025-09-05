@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+  "progressionutils:rubium_ore",
+  "progressionutils:betium_ore",
+  "progressionutils:sampsonite_ore",
+  "progressionutils:taninite_ore",
+  "progressionutils:strossnium_ore",
+  "progressionutils:deepslate_brokonium"
+  ]
+}
